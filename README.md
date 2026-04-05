@@ -1,4 +1,4 @@
-cd GUI_IDS_ML_U/GuiUbuntu  
+cd GuiUbuntu-20260405T173006Z-1-001/GuiUbuntu  
 sudo apt update  
 sudo apt install -y python3-venv python3-full  
 python3 -m venv .venv  
